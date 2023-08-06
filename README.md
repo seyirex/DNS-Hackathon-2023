@@ -22,7 +22,7 @@ The dataset consists of 14,000 observations (rows) and 7 variables (columns). Th
 
 ## Streamlit App(Model deployment)
 
-A web application was developed using Streamlit to enable users to interact with the predictive model. Users can input house characteristics and get an estimated price. The application also provides insights into the Exploratory Data Analysis and model performance.
+A web application was developed using Streamlit to enable users to interact with the predictive model. Users can input house characteristics and get an estimated price.
 
 ## Usage
 Clone the repository, install the required libraries listed in requirements.txt, and run the Streamlit app with streamlit run app.py.
